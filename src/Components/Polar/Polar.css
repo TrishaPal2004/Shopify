@@ -1,0 +1,40 @@
+.polar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+   
+}
+.dropdown{
+    margin-left: 90%;
+}
+.polar h1{
+    color:black;
+    font-size: 50px;
+    font-weight: 600;
+}
+.out {
+   display: flex;
+    padding: 23px;
+    background-color: bisque;
+}
+.out img{
+  margin-left: 10%;
+  border:14px solid rgb(136, 117, 8);
+ width: 77%;
+}
+.polar-item img{
+    height: 300px;
+    width: 300px;
+}
+.polar hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: rgb(32, 32, 32);
+}
+.polar-item{
+    margin: 50px;
+    display:flex;
+    gap:30px;
+}
